@@ -14,3 +14,4 @@
 - `printf '%q ' "$@"` quotes args safely for re-evaluation.
 - `set -x; set +x` toggles command tracing on a chunk.
 - `mapfile -t arr < file` reads a file into an array, line per element.
+- `<(cmd)` is process substitution: pass cmd's output as a file path.
