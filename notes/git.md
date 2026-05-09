@@ -13,3 +13,4 @@
 - `git switch -` jumps to the previous branch, like `cd -`.
 - `git stash push -m "wip" -- path/` stashes only specific paths.
 - `git log -S 'string'` finds commits that added/removed a string.
+- `git config rerere.enabled true` remembers conflict resolutions.
