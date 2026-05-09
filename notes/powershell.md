@@ -20,3 +20,4 @@
 - `Sort-Object -Property Length -Descending` sorts in place.
 - `Get-Random` accepts an array directly: `Get-Random -InputObject 1..100`.
 - `Resolve-Path` normalizes a path and follows links.
+- `Group-Object Extension` buckets files by extension.
