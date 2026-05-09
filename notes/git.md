@@ -12,3 +12,4 @@
 - `git worktree add ../wt branch` lets two branches be checked out at once.
 - `git switch -` jumps to the previous branch, like `cd -`.
 - `git stash push -m "wip" -- path/` stashes only specific paths.
+- `git log -S 'string'` finds commits that added/removed a string.
