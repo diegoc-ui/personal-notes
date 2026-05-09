@@ -12,3 +12,4 @@
 - `-WhatIf` previews destructive cmdlets before running.
 - `Invoke-WebRequest` returns objects, `curl.exe` returns plain text — pick on purpose.
 - `Measure-Command { ... }` benchmarks a script block.
+- `Set-PSReadlineOption -PredictionSource History` enables inline history hints.
