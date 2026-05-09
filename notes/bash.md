@@ -12,3 +12,4 @@
 - `${var//pat/repl}` replaces all matches inside a variable.
 - `shopt -s globstar` lets `**` match across directories.
 - `printf '%q ' "$@"` quotes args safely for re-evaluation.
+- `set -x; set +x` toggles command tracing on a chunk.
