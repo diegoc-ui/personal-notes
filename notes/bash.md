@@ -6,3 +6,4 @@
 - `mapfile -t arr < file` reads a file into an array, line per element.
 - `shopt -s globstar` lets `**` match across directories.
 - `trap 'cleanup' EXIT` runs cleanup whether the script succeeds or fails.
+- `<(cmd)` is process substitution: pass cmd's output as a file path.
