@@ -21,3 +21,4 @@
 - `Get-Random` accepts an array directly: `Get-Random -InputObject 1..100`.
 - `Resolve-Path` normalizes a path and follows links.
 - `Group-Object Extension` buckets files by extension.
+- `Tee-Object` is the equivalent of unix `tee`.
