@@ -8,3 +8,4 @@
 - `Invoke-WebRequest` returns objects, `curl.exe` returns plain text — pick on purpose.
 - `Get-History | Select -Last 5` shows recent commands of this session.
 - `Start-Transcript` records the whole session to a log file.
+- `Format-Hex` inspects bytes of a string or file.
