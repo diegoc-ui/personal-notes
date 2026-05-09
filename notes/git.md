@@ -19,3 +19,4 @@
 - `git rebase --onto X Y..Z` cherry-picks a slice onto a different base.
 - `git fetch --prune` removes refs for branches deleted upstream.
 - `git bisect run script` automates finding the offending commit.
+- `git submodule update --init --recursive` after a fresh clone with submodules.
