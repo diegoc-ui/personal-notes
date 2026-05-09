@@ -22,3 +22,4 @@
 - `git submodule update --init --recursive` after a fresh clone with submodules.
 - `git switch -c topic origin/main` creates a topic branch from latest main.
 - `git config diff.colorMoved zebra` highlights moved blocks during diffs.
+- `git revert -m 1 <merge-sha>` reverts a merge commit.
