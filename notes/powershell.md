@@ -22,3 +22,4 @@
 - `Resolve-Path` normalizes a path and follows links.
 - `Group-Object Extension` buckets files by extension.
 - `Tee-Object` is the equivalent of unix `tee`.
+- `Get-ChildItem -File -Recurse` skips directories in the recursion.
