@@ -10,3 +10,4 @@
 - `Start-Transcript` records the whole session to a log file.
 - `Format-Hex` inspects bytes of a string or file.
 - `-WhatIf` previews destructive cmdlets before running.
+- `Invoke-WebRequest` returns objects, `curl.exe` returns plain text — pick on purpose.
