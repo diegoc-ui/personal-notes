@@ -9,3 +9,4 @@
 - `<(cmd)` is process substitution: pass cmd's output as a file path.
 - `trap 'cleanup' EXIT` runs cleanup whether the script succeeds or fails.
 - `coproc` starts a coprocess with bidirectional pipes.
+- `${var//pat/repl}` replaces all matches inside a variable.
