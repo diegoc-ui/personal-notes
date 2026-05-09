@@ -18,3 +18,4 @@
 - `Compare-Object $a $b` diffs two arrays.
 - `Get-History | Select -Last 5` shows recent commands of this session.
 - `Sort-Object -Property Length -Descending` sorts in place.
+- `Get-Random` accepts an array directly: `Get-Random -InputObject 1..100`.
