@@ -11,3 +11,4 @@
 - `git reflog` recovers commits that look lost after a hard reset.
 - `git worktree add ../wt branch` lets two branches be checked out at once.
 - `git switch -` jumps to the previous branch, like `cd -`.
+- `git stash push -m "wip" -- path/` stashes only specific paths.
