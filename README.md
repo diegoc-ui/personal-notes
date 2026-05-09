@@ -1,36 +1,15 @@
-# achievements-farm
-bump farm/20260508183841-1
+# personal-notes
 
-bump farm/20260508183852-2
+A small collection of notes, snippets and TILs I want to keep around.
 
-pair demo
+## Sections
 
-pair with lucky
+- [git](notes/git.md)
+- [bash](notes/bash.md)
+- [powershell](notes/powershell.md)
 
-bump farm/20260508184230-1
+## Conventions
 
-bump farm/20260508184242-2
-
-bump farm/20260508184255-3
-
-bump farm/20260508184307-4
-
-bump farm/20260508184319-5
-
-bump farm/20260508184331-6
-
-bump farm/20260508184344-7
-
-bump farm/20260508184357-8
-
-bump farm/20260508184409-9
-
-bump farm/20260508184421-10
-
-bump farm/20260508184435-11
-
-bump farm/20260508184446-12
-
-bump farm/20260508184458-13
-
-bump farm/20260508184510-14
+- One topic per file under `notes/`.
+- Short bullets, code fences for commands.
+- Prefer linking to authoritative docs over duplicating them.
