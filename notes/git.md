@@ -20,3 +20,4 @@
 - `git fetch --prune` removes refs for branches deleted upstream.
 - `git bisect run script` automates finding the offending commit.
 - `git submodule update --init --recursive` after a fresh clone with submodules.
+- `git switch -c topic origin/main` creates a topic branch from latest main.
