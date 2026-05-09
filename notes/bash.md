@@ -16,3 +16,4 @@
 - `mapfile -t arr < file` reads a file into an array, line per element.
 - `<(cmd)` is process substitution: pass cmd's output as a file path.
 - `time { ... ; }` times a block, not just a single command.
+- `exec 3<file` opens fd 3 for reading.
