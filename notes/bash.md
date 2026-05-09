@@ -21,3 +21,4 @@
 - `xargs -I {} -P 4` runs up to 4 jobs in parallel.
 - `column -t` aligns whitespace-separated columns.
 - `bashdb` exists if you really need a step debugger.
+- `pgrep -f pattern` finds processes by command line.
