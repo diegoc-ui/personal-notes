@@ -15,3 +15,4 @@
 - `git log -S 'string'` finds commits that added/removed a string.
 - `git config rerere.enabled true` remembers conflict resolutions.
 - `git diff --staged` shows what's actually going into the next commit.
+- `git blame -L 10,20 file` blame just a line range.
