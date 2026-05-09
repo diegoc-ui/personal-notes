@@ -22,3 +22,4 @@
 - `column -t` aligns whitespace-separated columns.
 - `bashdb` exists if you really need a step debugger.
 - `pgrep -f pattern` finds processes by command line.
+- `sponge` (moreutils) lets you write to the same file you're reading.
