@@ -7,3 +7,4 @@
 - `git commit --fixup=<sha>` then `git rebase -i --autosquash` for clean history.
 - `git diff --staged` shows what's actually going into the next commit.
 - `git stash push -m "wip" -- path/` stashes only specific paths.
+- `git commit --fixup=<sha>` then `git rebase -i --autosquash` for clean history.
