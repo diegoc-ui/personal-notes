@@ -16,3 +16,4 @@
 - `$ErrorActionPreference = 'Stop'` makes scripts halt on first error.
 - `Get-Process | Sort CPU -desc | Select -First 5` quick top-5.
 - `Compare-Object $a $b` diffs two arrays.
+- `Get-History | Select -Last 5` shows recent commands of this session.
