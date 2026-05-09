@@ -15,3 +15,4 @@
 - `Set-PSReadlineOption -PredictionSource History` enables inline history hints.
 - `$ErrorActionPreference = 'Stop'` makes scripts halt on first error.
 - `Get-Process | Sort CPU -desc | Select -First 5` quick top-5.
+- `Compare-Object $a $b` diffs two arrays.
