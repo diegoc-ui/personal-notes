@@ -9,3 +9,4 @@
 - `git stash push -m "wip" -- path/` stashes only specific paths.
 - `git commit --fixup=<sha>` then `git rebase -i --autosquash` for clean history.
 - `git reflog` recovers commits that look lost after a hard reset.
+- `git worktree add ../wt branch` lets two branches be checked out at once.
