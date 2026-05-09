@@ -19,3 +19,4 @@
 - `exec 3<file` opens fd 3 for reading.
 - `getopts` parses short flags portably; `getopt` is more powerful but GNU-only.
 - `xargs -I {} -P 4` runs up to 4 jobs in parallel.
+- `column -t` aligns whitespace-separated columns.
