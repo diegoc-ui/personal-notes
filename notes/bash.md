@@ -17,3 +17,4 @@
 - `<(cmd)` is process substitution: pass cmd's output as a file path.
 - `time { ... ; }` times a block, not just a single command.
 - `exec 3<file` opens fd 3 for reading.
+- `getopts` parses short flags portably; `getopt` is more powerful but GNU-only.
