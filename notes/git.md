@@ -4,3 +4,4 @@
 - `git restore --staged <file>` undo `git add`.
 - `git log --oneline --graph --decorate --all` for a quick view.
 - `git switch -` jumps to the previous branch, like `cd -`.
+- `git commit --fixup=<sha>` then `git rebase -i --autosquash` for clean history.
