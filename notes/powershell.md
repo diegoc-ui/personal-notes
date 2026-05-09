@@ -6,3 +6,4 @@
 - `Get-History | Select -Last 5` shows recent commands of this session.
 - `$ErrorActionPreference = 'Stop'` makes scripts halt on first error.
 - `Invoke-WebRequest` returns objects, `curl.exe` returns plain text — pick on purpose.
+- `Get-History | Select -Last 5` shows recent commands of this session.
