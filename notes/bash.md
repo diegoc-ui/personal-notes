@@ -15,3 +15,4 @@
 - `set -x; set +x` toggles command tracing on a chunk.
 - `mapfile -t arr < file` reads a file into an array, line per element.
 - `<(cmd)` is process substitution: pass cmd's output as a file path.
+- `time { ... ; }` times a block, not just a single command.
