@@ -11,3 +11,4 @@
 - `coproc` starts a coprocess with bidirectional pipes.
 - `${var//pat/repl}` replaces all matches inside a variable.
 - `shopt -s globstar` lets `**` match across directories.
+- `printf '%q ' "$@"` quotes args safely for re-evaluation.
